@@ -1,0 +1,30 @@
+{
+  "schema": 1,
+  "updated": "2026-11-06T13:24:40.978Z",
+  "channels": {
+    "desktop": {
+      "build": 1793971422,
+      "version": "0.1.6",
+      "protocol": 18,
+      "shellMin": 1,
+      "fileCount": 4171,
+      "totalBytes": 181614429,
+      "envelope": "desktop.json",
+      "previous": "history/desktop-1793966384.json"
+    },
+    "android": {
+      "build": 1793971422,
+      "version": "0.1.6",
+      "protocol": 18,
+      "shellMin": 1,
+      "fileCount": 4179,
+      "totalBytes": 181624661,
+      "envelope": "android.json",
+      "previous": "history/android-1793966384.json"
+    }
+  },
+  "objects": {
+    "count": 4358,
+    "bytes": 192630382
+  }
+}
